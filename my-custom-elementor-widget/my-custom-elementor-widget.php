@@ -4,8 +4,10 @@
  * Description: A custom Elementor widget based on the provided image, now in a single file.
  * Version: 1.0.1
  * Author: Your Name
+ * Requires Plugins: elementor
+ * Elementor tested up to: 3.30.0
+ * Elementor Pro tested up to: 3.30.0
  */
-
 if ( ! defined( 'ABSPATH' ) ) {
     exit; // Exit if accessed directly.
 }
